@@ -1,6 +1,6 @@
 # Python Telegram AI Bot
 
-Telegram-бот - консультант интернет-магазина элнктронных компонентов и радиодеталей. 
+Telegram-бот - консультант интернет-магазина электронных компонентов и радиодеталей. 
 Он использует языковую модель YandexGPT, доступ к ней осуществляется по API. 
 Бот написан на Python и использует библиотеку `python-telegram-bot` для работы с Telegram API.
 
@@ -9,7 +9,7 @@ Telegram-бот - консультант интернет-магазина эл�
 ### 1. Скачайте и распакуйте файлы проекта, откройте папку в VsCode.  
 Или используйте консоль для клонирования репозитория:
 ```
-git clone https://github.com/labintsev/python-telegram-ai-bot.git
+git clone https://github.com/mekhinaok-cell/python-telegram-ai-bot
 cd python-telegram-ai-bot
 ```
 
@@ -52,4 +52,5 @@ YA_FOLDER_ID=ваш_каталог_яндекс_консоли
 python bot.py
 ```
 Если всё настроено верно, бот начнет работать и принимать сообщения в Telegram.
+
 
